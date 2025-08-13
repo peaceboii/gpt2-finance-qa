@@ -1,6 +1,6 @@
-Here’s a professional **README.md** template for your GPT-2 Finance Q\&A model hosted on Hugging Face, including deployment instructions and usage examples:
 
----
+
+
 
 ````markdown
 # GPT-2 Finance Q&A Model
