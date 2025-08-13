@@ -191,7 +191,7 @@ pyreadline3==3.5.4
 PySocks==1.7.1
 python-dateutil==2.9.0.post0
 python-dotenv==0.19.2
-python-slugify==8.0.4
+
 
 pywin32==311
 PyYAML==6.0.1
