@@ -3,24 +3,24 @@
 
 
 ````markdown
-# GPT-2 Finance Q&A Model
+ GPT-2 Finance Q&A Model
 
-This is a **fine-tuned GPT-2 model** for answering finance-related questions.  
-It can be used for Q&A tasks, chatbots, or interactive demos.
-
----
-
-## Model Details
-
-- **Model type:** GPT-2 (decoder-only)
-- **Fine-tuned on:** Finance Q&A dataset
-- **Tokenizer:** GPT-2 tokenizer
-- **Hub repository:** [https://huggingface.co/peaceboii/gpt2-finance-qa](https://huggingface.co/peaceboii/gpt2-finance-qa)
-- **License:** [Specify your license]
+This is a fine-tuned GPT-2 model for answering finance-related questions.  
+It can be used for Q&A tasks.
 
 ---
 
-## Installation
+ Model Details
+
+- Model type: GPT-2 (decoder-only)
+- Fine-tuned on: Finance Q&A dataset
+- Tokenizer: GPT-2 tokenizer
+- Hub repository: [https://huggingface.co/peaceboii/gpt2-finance-qa](https://huggingface.co/peaceboii/gpt2-finance-qa)
+- License: apache2.0
+
+---
+
+ Installation
 
 Install required packages:
 
@@ -93,15 +93,14 @@ streamlit run ui.py
 ## Notes
 
 * The model is fine-tuned specifically on finance Q\&A, so accuracy is highest for finance-related queries.
-* Large checkpoints are hosted on Hugging Face Hub; no need to push checkpoints to GitHub.
+* Large checkpoints are hosted on Hugging Face Hub;
 * For private models, provide `use_auth_token=True` when loading the model.
 
 ---
 
 ## Contact
 
-For issues or questions, contact **\<kumaravelu/ kumaravelu2003@gmail.com>**.
+For issues or questions, contact **kumaravelu/ kumaravelu2003@gmail.com**.
 
-```
 
 
