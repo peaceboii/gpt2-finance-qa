@@ -139,7 +139,6 @@ newspaper3k==0.2.8
 nltk==3.9.1
 numpy==1.26.3
 oauthlib==3.2.2
-onnxruntime==1.16.3
 openai==1.40.0
 openpyxl==3.1.5
 opentelemetry-api==1.26.0
