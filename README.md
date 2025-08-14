@@ -86,7 +86,7 @@ if question:
 streamlit run ui.py
 ```
 
-3. Access the interactive interface at `http://localhost:8501`.
+3. Access the interactive interface at `https://gpt2-finance.streamlit.app/`.
 
 ---
 
